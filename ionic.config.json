@@ -1,0 +1,7 @@
+{
+  "name": "Tagalog Word Puzzle Game",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
